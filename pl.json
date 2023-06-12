@@ -1,0 +1,23 @@
+{
+    "CHAR.WS": "Walka Wręcz",
+    "CHAR.BS": "Umiejętności Strzeleckie",
+	"CHAR.S": "Siła",
+	"CHAR.T": "Wytrzymałość",
+	"CHAR.I": "Inicjatywa",
+	"CHAR.Ag": "Zwinność",
+	"CHAR.Dex": "Zręczność",
+	"CHAR.Int": "Inteligencja",
+	"CHAR.WP": "Siła Woli",
+    "CHAR.Fel": "Ogłada",
+
+    "CHARAbbrev.WS": "WW",
+    "CHARAbbrev.BS": "US",
+	"CHARAbbrev.S": "S",
+	"CHARAbbrev.T": "Wt",
+	"CHARAbbrev.I": "I",
+	"CHARAbbrev.Ag": "Zw",
+	"CHARAbbrev.Dex": "Zr",
+	"CHARAbbrev.Int": "Int",
+	"CHARAbbrev.WP": "SW",
+    "CHARAbbrev.Fel": "Ogd"
+}
