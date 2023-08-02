@@ -4,7 +4,7 @@
   "name": "wfrp4e-pl-PL",
   "title": "Warhammer Fantasy Roleplay 4e - polskie tłumaczenie",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "kwaszczuk",
   "esmodules": [],
   "scripts": [],
@@ -33,5 +33,5 @@
   },
   "url": "https://github.com/kwaszczuk/WFRP4e-FoundryVTT-Translation-PL",
   "manifest": "https://github.com/kwaszczuk/WFRP4e-FoundryVTT-Translation-PL/releases/download/latest/module.json",
-  "download": "https://github.com/kwaszczuk/WFRP4e-FoundryVTT-Translation-PL/releases/download/0.0.1/wfrp4e-pl-PL.zip" 
+  "download": "https://github.com/kwaszczuk/WFRP4e-FoundryVTT-Translation-PL/releases/download/0.0.2/wfrp4e-pl-PL.zip" 
 }
